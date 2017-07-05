@@ -56,6 +56,6 @@ public class CalendarapiApplication extends SpringBootServletInitializer {
 	}
 }
 ```
-Then, you can access h2's console at: [localhost:8080/h2-console](http://localhost:8080/h2-console)
+Then, you can access h2's console at: [localhost:8080/tinroof/console](http://localhost:8080/tinroof/console)
 Simply type in the url ```jdbc:h2:mem:tinroofdb;MVCC=FALSE;MV_STORE=FALSE;DB_CLOSE_DELAY=-1;MODE=MYSQL``` 
 
